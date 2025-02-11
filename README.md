@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Nico, a 24 year old web developer from the United States.
+I'm Nico, a web developer from the United States.
 
 ## Skills
 - 👨‍💻 Java, JS, C, C++, Python 
